@@ -1,7 +1,7 @@
 # Speech To Text Tool
 ## Speech to text command line utility, using Microsoft Cognitive Services, written in .Net Core 2.1 on Visual Studio 2017
 
-A simple command line utility to extract text from speech in media files, using Microsoft Cognitive Services
+This is a simple command line utility to extract text from speech in media files, using Microsoft Cognitive Services
 
 I wrote this little utility to simplify text transcription of spoken interviews done by my brother for his MA dissertation.
 
