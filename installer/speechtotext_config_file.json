@@ -1,0 +1,17 @@
+{
+	"help0": "----------------------------------------------------------------------------------------------------",
+	"help1": "To get a subscription key, go to https://azure.microsoft.com/en-gb/try/cognitive-services/          ",
+	"help2": "and click the 'Congnitive Services - Speech APIs' tab,                                              ",
+	"help3": "then click the 'Get API Key' button for the 'Speech Services' option,                               ",
+	"help4": "then follow the prompts to register for the Microsoft Azure option you want -                       ",
+	"help5": "7-day trial, £0/month or sign in with your existing Microsoft Azure account                         ",
+	"help6": "                                                                                                    ",
+	"help7": "When you have your subscription key and endpoint address,                                           ",
+	"help8": "copy them from the Cognitive Services webpage into the subscription_key and endpoint variables below",
+	"help9": "----------------------------------------------------------------------------------------------------",
+	"help10": "",
+	"subscription_key": "enter_your_subscription_key_here",
+	"endpoint": "https://westus.api.cognitive.microsoft.com/sts/v1.0",
+	"recognition_language": "en-US",
+	"region": "westus"
+}

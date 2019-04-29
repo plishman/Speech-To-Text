@@ -1,0 +1,6 @@
+{
+    "subscription_key": "e3c78927fda84c3282d4cbe59cf8c25e",
+    "endpoint": "https://westus.api.cognitive.microsoft.com/sts/v1.0",
+    "recognition_language": "en-US",
+    "region": "westus"
+}

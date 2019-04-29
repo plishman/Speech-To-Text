@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "speechtotext": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\Phil Lishman\\Documents\\Jon\\MA\\test.wav\""
+    }
+  }
+}
